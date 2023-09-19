@@ -1,4 +1,4 @@
-###Automated Testing Challenge
+##Automated Testing Challenge
 ##Task 1: Setting up the Environment
 #1.	Setting up NodeJS Environment:
 Firstly, I have installed latest node module.
